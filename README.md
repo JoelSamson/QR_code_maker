@@ -1,7 +1,5 @@
 # QR code maker from URL
 
-Got it. Let's tailor the description accordingly:
-
 ---
 
 **Project Description:**
